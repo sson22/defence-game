@@ -1,5 +1,5 @@
 # tower-defence-game
-University project - defence game using Java
+University project - Tower defence game using Java
 
 <img width="763" alt="game" src="https://user-images.githubusercontent.com/103995226/171259779-0d56d820-f417-49b6-a30b-964074696339.png">
 Shadow Defend is a tower defence game where the player must attempt to defend the map from enemies using towers. As such, there are two main components of the game: slicers (the enemy), and towers.
