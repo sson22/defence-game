@@ -1,5 +1,6 @@
 # tower-defence-game
-University project - Tower defence game built with subject’s own graphics library Bagel in Java language.![image](https://user-images.githubusercontent.com/103995226/171260056-6e466ab1-16b1-4af9-bc0e-0ba33b608986.png)
+University project - Tower defence game built with subject’s own graphics library Bagel in Java language.
+![image](https://user-images.githubusercontent.com/103995226/171260056-6e466ab1-16b1-4af9-bc0e-0ba33b608986.png)
 
 
 <img width="763" alt="game" src="https://user-images.githubusercontent.com/103995226/171259779-0d56d820-f417-49b6-a30b-964074696339.png">
